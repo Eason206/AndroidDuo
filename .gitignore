@@ -10,3 +10,7 @@ Thumbs.db
 .externalNativeBuild/
 .cxx/
 captures/
+.kotlin/
+.api-inspect/
+*.log
+hs_err_pid*.log
